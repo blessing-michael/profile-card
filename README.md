@@ -5,7 +5,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Portfolio ](#-Profile Card-)
+- [📖 Portfolio ](#-Profile-Card-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -18,7 +18,7 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
 
-# 📖 Profile Card <a name="about-project"></a>
+# 📖 Profile Card <a name="Profile-Card"></a>
 
 # Profile Card 
 
@@ -60,7 +60,7 @@ This project is a responsive, accessible profile card built with HTML, CSS, and 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-https://blessing-michael.github.io/portfolio/
+https://blessing-michael.github.io/profile-card/
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
