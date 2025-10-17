@@ -1,6 +1,26 @@
+
+
+<a name="readme-top"></a>
+
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Portfolio ](#-Profile Card-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [How to Run](#How to Run)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+
 # 📖 Profile Card <a name="about-project"></a>
 
-# Profile Card Project
+# Profile Card 
 
 This project is a responsive, accessible profile card built with HTML, CSS, and vanilla JavaScript.
 
@@ -84,5 +104,3 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Folder Structure
